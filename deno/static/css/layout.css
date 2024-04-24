@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+body{
+    color:tomato;
+    background-color: black;
+    min-height: 100vh;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+nav{
+    padding: 1rem;
+    color:whitesmoke;
+    font-size: 1.5rem;
+    background-color: bisque;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+section{
+    padding: 0px 10px;
+}
+
+main{
+    margin-top: 30px;
+    font-size: 20px;
+}
